@@ -1,0 +1,12 @@
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\bin\Debug\net6.0\Members.Data.deps.json
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\bin\Debug\net6.0\Members.Data.dll
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\bin\Debug\net6.0\Members.Data.pdb
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.csproj.AssemblyReference.cache
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.AssemblyInfoInputs.cache
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.AssemblyInfo.cs
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.csproj.CoreCompileInputs.cache
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.dll
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\refint\Members.Data.dll
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\Members.Data.pdb
+C:\Users\hachg\source\repos\WebService\MemberAPI\Member.Data\obj\Debug\net6.0\ref\Members.Data.dll
